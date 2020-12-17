@@ -22,5 +22,6 @@ public class AppTest {
         int expected = square.getExpected();
         int actual = 1;
         Assert.assertEquals(expected, actual);
+        System.out.println("HELLLLLOOOOOOOOOo");
     }
 }
