@@ -43,6 +43,5 @@ public class Square {
             System.out.println();
         }
         expected = a[1][0];
-        System.out.println(1);
     }
 }
