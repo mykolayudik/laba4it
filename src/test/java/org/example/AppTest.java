@@ -23,5 +23,6 @@ public class AppTest {
         int actual = 1;
         Assert.assertEquals(expected, actual);
         System.out.println("HELLLLLOOOOOOOOOo");
+        System.out.println("HELLLLLOOOOOOOOOo");
     }
 }
